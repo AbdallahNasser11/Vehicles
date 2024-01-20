@@ -1,2 +1,2 @@
 # Vehicles
-This repository contain information about vehicles which processed data by python and visualization by Power BI 
+This repository contain information about vehicles whose data is processed by python and visualization by Power BI 
